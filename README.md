@@ -1,4 +1,4 @@
-[Website](https://brian.giannini.com/) - [LinkedIn](https://www.linkedin.com/in/briangiannini1/) - [X/Twitter](https://twitter.com/SanguiSan)
+[Website](https://briangiannini.com/) - [LinkedIn](https://www.linkedin.com/in/briangiannini1/) - [X/Twitter](https://twitter.com/SanguiSan)
 
 Hello there 👋
 I'm **Brian Giannini** aka Sangui or SanguiSan online, I come from an engineer background from France. \
