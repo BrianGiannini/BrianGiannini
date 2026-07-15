@@ -3,4 +3,4 @@
 Hello there 👋
 I'm **Brian Giannini** aka Sangui or SanguiSan online, I come from an engineer background from France. \
 My expertise is building mobile applications and my fields are robotics, crypto, video games and AI. \
-I Previously worked at [Ledger](https://www.ledger.com/), [SoftBank Robotics](https://www.softbankrobotics.com/) and [Thales](https://www.thalesgroup.com/) and now my own company [Criaphore](https://criaphore.com/)
+I Previously worked at [Ledger](https://www.ledger.com/), [SoftBank Robotics](https://www.softbankrobotics.com/) and [Thales](https://www.thalesgroup.com/) and now my own company [Criaphore](https://criaphore.com/) doing freelancing and solo entrepreneurship
